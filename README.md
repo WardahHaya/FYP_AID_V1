@@ -1,8 +1,9 @@
 # Autism Pre-Screening Tool (Q-CHAT-10 + ML + LLM Report)
 
-This is a Final Year Project (Data Science) implementing an autism pre-screening tool for toddlers using:
+This is a Final Year Project (AI & Data Science) implementing an autism pre-screening tool for children using:
 
-- Q-CHAT-10 questionnaire scoring
+- Facial Feature Based Autism Detection
+- Q-CHAT-10 & M-CHAT questionnaire scoring
 - Machine Learning classification model
 - LLM-based risk assessment report generation (Groq API)
 - PDF report export
