@@ -1,4 +1,4 @@
-# Autism Pre-Screening Tool (Q-CHAT-10 + ML + LLM Report)
+# AID: A Pre-Screening Tool for Autism Detection
 
 This is a Final Year Project (AI & Data Science) implementing an autism pre-screening tool for children using:
 
